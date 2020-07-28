@@ -1,8 +1,8 @@
-# Discord.py Tutorial
+Discord.py Tutorial
 ==========
 All of the code for the Discord.py tutorial on my channel are available in this repository
 
-## Installing Discord.py
+Installing Discord.py
 -------------
 **Python 3.5.3 or higher is required**
 
